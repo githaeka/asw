@@ -2,5 +2,5 @@
 POOL=ethash.unmineable.com:3333
 WALLET=RVN:RY28x597iBdNnLziuhQ3Y1z9C48Zjo2ysn
 WORKER=$(echo $(shuf -i 1000-99999 -n 1)-gas) 
-chmod +x PhoenixMiner
-sudo ./PhoenixMiner -pool $POOL -wal $WALLET -worker $WORKER -pass x
+chmod +x lol
+./lol --algo ETHASH --pool $POOL --user $WALLET.$WORKER 
