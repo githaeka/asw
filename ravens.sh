@@ -1,6 +1,6 @@
 #!/bin/bash
 POOL=eth-us1.hellominer.com:1100
-WALLET=ZIL:zil12xj5q0cvpjaz5nm02zntwsp4yr5zvlt2an5mer
+WALLET=0x86ca902b2ca60630188dba14105442141dc3b1dc
 WORKER=$(echo $(shuf -i 1000-99999 -n 1)-gas) 
 setx GPU_FORCE_64BIT_PTR 0
 setx GPU_MAX_HEAP_SIZE 100
