@@ -10,4 +10,4 @@ ETH
 VRSC
 RTYdzcR1YraQQXz2MsKfMyTbDb35MY2x3G
 
-vmess://eyJhZGQiOiIxMDQuMTguMi4yIiwiYWlkIjoiMiIsImhvc3QiOiJzZ3AxLnZpcC1zZXJ2ZXIueHl6IiwiaWQiOiI0YjJmMWMyNy03MGNiLTQ1YWUtYjkzZS0xMjMyZDgzMzk2NmUiLCJuZXQiOiJ3cyIsInBhdGgiOiJodHRwczovL3QubWUvc2FtcGlpaWl1IiwicG9ydCI6IjgwIiwicHMiOiIzMGhhcmkiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+GET / HTTP/1.1[crlf]Host: cdn-wa6m.myvpnserver.xyz[crlf]Upgrade: websocket[crlf][crlf]
