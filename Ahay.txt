@@ -10,4 +10,4 @@ ETH
 VRSC
 RTYdzcR1YraQQXz2MsKfMyTbDb35MY2x3G
 
-GET / HTTP/1.1[crlf]Host: cdn-wa6m.myvpnserver.xyz[crlf]Upgrade: websocket[crlf][crlf]
+Payload : GET / HTTP/1.1[crlf]Host: id-1.prideindovpn.xyz[crlf]Upgrade: websocket[crlf][crlf]
