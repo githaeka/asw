@@ -13,3 +13,6 @@ Trial263
 
 
 GET / HTTP/1.1[crlf]Host: id2.aanstores.xyz[crlf]Upgrade: websocket[crlf][crlf]
+
+
+vmess://eyJhZGQiOiIxMDQuMTYuODguMjAiLCJhaWQiOiIyIiwiaG9zdCI6ImlkMi5hYW5zdG9yZXMueHl6IiwiaWQiOiJiZmRhZmJiZC00N2Q3LTRiZTEtYjkxYS04ZTUzODE4YmI2MjYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWFuc3RvcmVzIiwicG9ydCI6IjgwIiwicHMiOiJ0cmlhbDM4ODgiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
