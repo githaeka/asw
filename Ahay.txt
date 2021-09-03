@@ -9,5 +9,7 @@ ETH
 
 VRSC
 RTYdzcR1YraQQXz2MsKfMyTbDb35MY2x3G
+Trial263
 
-vmess://eyJhZGQiOiJiaW1iZWwucnVhbmdndXJ1LmNvbSIsImFpZCI6IjIiLCJob3N0IjoieXc5dS52aXAtc2VydmVyLnh5eiIsImlkIjoiMWJjMTcxYjktNzIyZS00ZjkwLThjZDktNTJjMjEwY2IyZDQyIiwibmV0Ijoid3MiLCJwYXRoIjoiaHR0cHM6Ly90Lm1lL3NhbXBpaWlpdSIsInBvcnQiOiI4MCIsInBzIjoiMzBoYXJpIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+
+GET / HTTP/1.1[crlf]Host: id2.aanstores.xyz[crlf]Upgrade: websocket[crlf][crlf]
